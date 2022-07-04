@@ -8,6 +8,10 @@ I specialize in the development of high-load services. But now I'm actively stud
 
 - [zettelkasten](https://github.com/Woofka/zettelkasten)  
 My first full-stack development experience. Also it's my bachelor's thesis 🎓
+- [code-dungeon](https://github.com/Woofka/code-dungeon)  
+Attempt to make a simple CLI game  
+- [2d-optics](https://github.com/Woofka/2d-optics)  
+University project about modeling light behaviour in 2d space
 - To be done...
 
 
